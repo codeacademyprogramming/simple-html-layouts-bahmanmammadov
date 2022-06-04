@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color:rgb(249,250,210) ;
+}
+div{
+    height: 1100px;
+    width: 900px;
+ background-color: white;
+    margin:auto;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+h1{
+    padding-left: 185px;
+    font-size: 20px;
+}
+p{
+    font-size: 25px;
+}
+
+fieldset{
+    margin:5px;
+}
+span{
+    background-color: red;
+   color: white;
+   
+}
+#sp{
+    margin: 350px;
+}
